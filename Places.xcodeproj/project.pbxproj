@@ -9,12 +9,34 @@
 /* Begin PBXBuildFile section */
 		6AF54F911C844BEB007A5E35 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54F901C844BEB007A5E35 /* main.m */; };
 		6AF54F941C844BEB007A5E35 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54F931C844BEB007A5E35 /* AppDelegate.m */; };
-		6AF54F971C844BEB007A5E35 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54F961C844BEB007A5E35 /* ViewController.m */; };
 		6AF54F9A1C844BEB007A5E35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54F981C844BEB007A5E35 /* Main.storyboard */; };
 		6AF54F9C1C844BEB007A5E35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54F9B1C844BEB007A5E35 /* Assets.xcassets */; };
 		6AF54F9F1C844BEB007A5E35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54F9D1C844BEB007A5E35 /* LaunchScreen.storyboard */; };
 		6AF54FAA1C844BEB007A5E35 /* PlacesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FA91C844BEB007A5E35 /* PlacesTests.m */; };
 		6AF54FB51C844BEB007A5E35 /* PlacesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FB41C844BEB007A5E35 /* PlacesUITests.m */; };
+		6AF54FD41C844C15007A5E35 /* atm.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC31C844C15007A5E35 /* atm.png */; };
+		6AF54FD51C844C15007A5E35 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC41C844C15007A5E35 /* background.png */; };
+		6AF54FD61C844C15007A5E35 /* backgroundDashBorad.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC51C844C15007A5E35 /* backgroundDashBorad.png */; };
+		6AF54FD71C844C15007A5E35 /* bank.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC61C844C15007A5E35 /* bank.png */; };
+		6AF54FD81C844C15007A5E35 /* firebrigade.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC71C844C15007A5E35 /* firebrigade.png */; };
+		6AF54FD91C844C15007A5E35 /* gym.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC81C844C15007A5E35 /* gym.png */; };
+		6AF54FDA1C844C15007A5E35 /* harwareStore.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FC91C844C15007A5E35 /* harwareStore.png */; };
+		6AF54FDB1C844C15007A5E35 /* hospital.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCA1C844C15007A5E35 /* hospital.png */; };
+		6AF54FDC1C844C15007A5E35 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCB1C844C15007A5E35 /* logo.png */; };
+		6AF54FDD1C844C15007A5E35 /* my.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCC1C844C15007A5E35 /* my.png */; };
+		6AF54FDE1C844C15007A5E35 /* petrolpump.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCD1C844C15007A5E35 /* petrolpump.png */; };
+		6AF54FDF1C844C15007A5E35 /* placesPin.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCE1C844C15007A5E35 /* placesPin.png */; };
+		6AF54FE01C844C15007A5E35 /* police.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FCF1C844C15007A5E35 /* police.png */; };
+		6AF54FE11C844C15007A5E35 /* resturant.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FD01C844C15007A5E35 /* resturant.png */; };
+		6AF54FE21C844C15007A5E35 /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FD11C844C15007A5E35 /* title.png */; };
+		6AF54FE31C844C15007A5E35 /* trainStation.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FD21C844C15007A5E35 /* trainStation.png */; };
+		6AF54FE41C844C15007A5E35 /* travelAgency.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AF54FD31C844C15007A5E35 /* travelAgency.png */; };
+		6AF54FEA1C844C4F007A5E35 /* Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FE71C844C4F007A5E35 /* Helper.m */; };
+		6AF54FEB1C844C4F007A5E35 /* Location.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FE91C844C4F007A5E35 /* Location.m */; };
+		6AF54FF61C844CE8007A5E35 /* DashBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FF51C844CE8007A5E35 /* DashBoard.m */; };
+		6AF54FFB1C844E4B007A5E35 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AF54FFA1C844E4B007A5E35 /* ViewController.m */; };
+		6AF54FFD1C844E6D007A5E35 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AF54FFC1C844E6D007A5E35 /* MapKit.framework */; };
+		6AF54FFF1C844E74007A5E35 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AF54FFE1C844E74007A5E35 /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +61,6 @@
 		6AF54F901C844BEB007A5E35 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6AF54F921C844BEB007A5E35 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6AF54F931C844BEB007A5E35 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		6AF54F951C844BEB007A5E35 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		6AF54F961C844BEB007A5E35 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6AF54F991C844BEB007A5E35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6AF54F9B1C844BEB007A5E35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AF54F9E1C844BEB007A5E35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +71,33 @@
 		6AF54FB01C844BEB007A5E35 /* PlacesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlacesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AF54FB41C844BEB007A5E35 /* PlacesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlacesUITests.m; sourceTree = "<group>"; };
 		6AF54FB61C844BEB007A5E35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AF54FC31C844C15007A5E35 /* atm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atm.png; sourceTree = "<group>"; };
+		6AF54FC41C844C15007A5E35 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		6AF54FC51C844C15007A5E35 /* backgroundDashBorad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundDashBorad.png; sourceTree = "<group>"; };
+		6AF54FC61C844C15007A5E35 /* bank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bank.png; sourceTree = "<group>"; };
+		6AF54FC71C844C15007A5E35 /* firebrigade.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firebrigade.png; sourceTree = "<group>"; };
+		6AF54FC81C844C15007A5E35 /* gym.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gym.png; sourceTree = "<group>"; };
+		6AF54FC91C844C15007A5E35 /* harwareStore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = harwareStore.png; sourceTree = "<group>"; };
+		6AF54FCA1C844C15007A5E35 /* hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hospital.png; sourceTree = "<group>"; };
+		6AF54FCB1C844C15007A5E35 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		6AF54FCC1C844C15007A5E35 /* my.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = my.png; sourceTree = "<group>"; };
+		6AF54FCD1C844C15007A5E35 /* petrolpump.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = petrolpump.png; sourceTree = "<group>"; };
+		6AF54FCE1C844C15007A5E35 /* placesPin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placesPin.png; sourceTree = "<group>"; };
+		6AF54FCF1C844C15007A5E35 /* police.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = police.png; sourceTree = "<group>"; };
+		6AF54FD01C844C15007A5E35 /* resturant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = resturant.png; sourceTree = "<group>"; };
+		6AF54FD11C844C15007A5E35 /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
+		6AF54FD21C844C15007A5E35 /* trainStation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = trainStation.png; sourceTree = "<group>"; };
+		6AF54FD31C844C15007A5E35 /* travelAgency.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = travelAgency.png; sourceTree = "<group>"; };
+		6AF54FE61C844C4F007A5E35 /* Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Helper.h; sourceTree = "<group>"; };
+		6AF54FE71C844C4F007A5E35 /* Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Helper.m; sourceTree = "<group>"; };
+		6AF54FE81C844C4F007A5E35 /* Location.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Location.h; sourceTree = "<group>"; };
+		6AF54FE91C844C4F007A5E35 /* Location.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Location.m; sourceTree = "<group>"; };
+		6AF54FF41C844CE8007A5E35 /* DashBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashBoard.h; sourceTree = "<group>"; };
+		6AF54FF51C844CE8007A5E35 /* DashBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashBoard.m; sourceTree = "<group>"; };
+		6AF54FF91C844E4B007A5E35 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6AF54FFA1C844E4B007A5E35 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6AF54FFC1C844E6D007A5E35 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		6AF54FFE1C844E74007A5E35 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +105,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AF54FFF1C844E74007A5E35 /* CoreLocation.framework in Frameworks */,
+				6AF54FFD1C844E6D007A5E35 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +130,8 @@
 		6AF54F831C844BEB007A5E35 = {
 			isa = PBXGroup;
 			children = (
+				6AF54FFE1C844E74007A5E35 /* CoreLocation.framework */,
+				6AF54FFC1C844E6D007A5E35 /* MapKit.framework */,
 				6AF54F8E1C844BEB007A5E35 /* Places */,
 				6AF54FA81C844BEB007A5E35 /* PlacesTests */,
 				6AF54FB31C844BEB007A5E35 /* PlacesUITests */,
@@ -101,10 +152,14 @@
 		6AF54F8E1C844BEB007A5E35 /* Places */ = {
 			isa = PBXGroup;
 			children = (
+				6AF54FE51C844C28007A5E35 /* Helper */,
+				6AF54FC21C844C0B007A5E35 /* Images */,
 				6AF54F921C844BEB007A5E35 /* AppDelegate.h */,
 				6AF54F931C844BEB007A5E35 /* AppDelegate.m */,
-				6AF54F951C844BEB007A5E35 /* ViewController.h */,
-				6AF54F961C844BEB007A5E35 /* ViewController.m */,
+				6AF54FF41C844CE8007A5E35 /* DashBoard.h */,
+				6AF54FF51C844CE8007A5E35 /* DashBoard.m */,
+				6AF54FF91C844E4B007A5E35 /* ViewController.h */,
+				6AF54FFA1C844E4B007A5E35 /* ViewController.m */,
 				6AF54F981C844BEB007A5E35 /* Main.storyboard */,
 				6AF54F9B1C844BEB007A5E35 /* Assets.xcassets */,
 				6AF54F9D1C844BEB007A5E35 /* LaunchScreen.storyboard */,
@@ -138,6 +193,41 @@
 				6AF54FB61C844BEB007A5E35 /* Info.plist */,
 			);
 			path = PlacesUITests;
+			sourceTree = "<group>";
+		};
+		6AF54FC21C844C0B007A5E35 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				6AF54FC31C844C15007A5E35 /* atm.png */,
+				6AF54FC41C844C15007A5E35 /* background.png */,
+				6AF54FC51C844C15007A5E35 /* backgroundDashBorad.png */,
+				6AF54FC61C844C15007A5E35 /* bank.png */,
+				6AF54FC71C844C15007A5E35 /* firebrigade.png */,
+				6AF54FC81C844C15007A5E35 /* gym.png */,
+				6AF54FC91C844C15007A5E35 /* harwareStore.png */,
+				6AF54FCA1C844C15007A5E35 /* hospital.png */,
+				6AF54FCB1C844C15007A5E35 /* logo.png */,
+				6AF54FCC1C844C15007A5E35 /* my.png */,
+				6AF54FCD1C844C15007A5E35 /* petrolpump.png */,
+				6AF54FCE1C844C15007A5E35 /* placesPin.png */,
+				6AF54FCF1C844C15007A5E35 /* police.png */,
+				6AF54FD01C844C15007A5E35 /* resturant.png */,
+				6AF54FD11C844C15007A5E35 /* title.png */,
+				6AF54FD21C844C15007A5E35 /* trainStation.png */,
+				6AF54FD31C844C15007A5E35 /* travelAgency.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		6AF54FE51C844C28007A5E35 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				6AF54FE61C844C4F007A5E35 /* Helper.h */,
+				6AF54FE71C844C4F007A5E35 /* Helper.m */,
+				6AF54FE81C844C4F007A5E35 /* Location.h */,
+				6AF54FE91C844C4F007A5E35 /* Location.m */,
+			);
+			name = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +333,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AF54FE11C844C15007A5E35 /* resturant.png in Resources */,
+				6AF54FDD1C844C15007A5E35 /* my.png in Resources */,
+				6AF54FDA1C844C15007A5E35 /* harwareStore.png in Resources */,
+				6AF54FE31C844C15007A5E35 /* trainStation.png in Resources */,
+				6AF54FDB1C844C15007A5E35 /* hospital.png in Resources */,
+				6AF54FD91C844C15007A5E35 /* gym.png in Resources */,
+				6AF54FD71C844C15007A5E35 /* bank.png in Resources */,
+				6AF54FD41C844C15007A5E35 /* atm.png in Resources */,
+				6AF54FD51C844C15007A5E35 /* background.png in Resources */,
+				6AF54FE21C844C15007A5E35 /* title.png in Resources */,
 				6AF54F9F1C844BEB007A5E35 /* LaunchScreen.storyboard in Resources */,
 				6AF54F9C1C844BEB007A5E35 /* Assets.xcassets in Resources */,
+				6AF54FE01C844C15007A5E35 /* police.png in Resources */,
+				6AF54FDC1C844C15007A5E35 /* logo.png in Resources */,
+				6AF54FDF1C844C15007A5E35 /* placesPin.png in Resources */,
+				6AF54FD61C844C15007A5E35 /* backgroundDashBorad.png in Resources */,
+				6AF54FE41C844C15007A5E35 /* travelAgency.png in Resources */,
+				6AF54FD81C844C15007A5E35 /* firebrigade.png in Resources */,
 				6AF54F9A1C844BEB007A5E35 /* Main.storyboard in Resources */,
+				6AF54FDE1C844C15007A5E35 /* petrolpump.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +377,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6AF54F971C844BEB007A5E35 /* ViewController.m in Sources */,
+				6AF54FFB1C844E4B007A5E35 /* ViewController.m in Sources */,
+				6AF54FEB1C844C4F007A5E35 /* Location.m in Sources */,
 				6AF54F941C844BEB007A5E35 /* AppDelegate.m in Sources */,
 				6AF54F911C844BEB007A5E35 /* main.m in Sources */,
+				6AF54FF61C844CE8007A5E35 /* DashBoard.m in Sources */,
+				6AF54FEA1C844C4F007A5E35 /* Helper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -16,7 +16,8 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    CLLocationManager *loc= [[CLLocationManager alloc]init];
+    [loc requestWhenInUseAuthorization ];
     return YES;
 }
 
